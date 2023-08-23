@@ -240,6 +240,90 @@ footer {
 
 /* footer section */
 
+.exprence-main {
+    width: 1050px;
+    margin: 50px auto;
+    display: flex;
+    gap: 50px;
+}
+
+.exprence-cotain>.card-continar {
+    border-radius: 8px;
+    background: #FFF;
+    box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.06);
+    margin-bottom: 20px;
+    /* padding: 20px; */
+}
+
+.card-continar {
+    width: 500px;
+    padding: 25px;
+}
+
+.card-title {
+    color: #131313;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.card-discription {
+    color: #727272;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.exprence-title {
+    color: #131313;
+    font-family: Work Sans;
+    font-size: 45px;
+    font-weight: 700;
+    border-left: 5px solid #FF900E;
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
+
+.praymari {
+    color: #727272;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    margin-bottom: 30px;
+}
+
+.ten-years-exprence {
+    background-color: #FF900E;
+    width: 258px;
+    border-radius: 8px;
+    padding: 45px 40px;
+    text-align: center;
+    position: relative;
+    bottom: 100px;
+}
+
+.ten-years-exprence>h3 {
+    color: #FFF;
+    font-family: Work Sans;
+    font-size: 60px;
+    font-weight: 700;
+}
+
+.ten-years-exprence>p {
+    color: #FFF;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.exprence-img-continar>img {
+    margin-top: 80px;
+    width: 450px;
+    margin-left: 40px;
+    /* height: 982px; */
+}
 
 /* Response mobile device */
 

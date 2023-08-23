@@ -187,6 +187,60 @@ img {
     margin-bottom: 10px;
 }
 
+
+/* footer section */
+footer {
+    width: 900px;
+    margin: 0px auto;
+}
+
+.our-text {
+    color: #131313;
+    font-family: Work Sans;
+    font-size: 45px;
+    font-weight: 700;
+    margin-bottom: 25px;
+}
+
+.prmoting-discription {
+    color: #727272;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    margin-bottom: 60px;
+
+}
+
+.proting-text-containt {
+    text-align: center;
+}
+
+.prmoting-img {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 70px;
+    margin-bottom: 60px;
+}
+
+.prmoting-img>a>img {
+    width: 100px;
+    cursor: pointer;
+}
+
+.foot {
+    text-align: center;
+    border-radius: 8px;
+    background: #FFF4E7;
+}
+
+.prmoting-discription-1 {
+    padding: 40px;
+}
+
+/* footer section */
+
+
 /* Response mobile device */
 
 
